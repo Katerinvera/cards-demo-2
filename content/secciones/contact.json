@@ -1,0 +1,53 @@
+{
+  "redes": [
+    {
+      "image": "/images/tlf.png",
+      "color": "#ffffff",
+      "name": "Telefono",
+      "label": "800 10 7000",
+      "url": "+591800107000"
+    },
+    {
+      "image": "/images/mail.png",
+      "color": "#ffffff",
+      "name": "Email",
+      "label": "nacionalseguros@nacionalseguros.com.bo",
+      "url": "nacionalseguros@nacionalseguros.com.bo"
+    },
+    {
+      "image": "/images/web.png",
+      "name": "Pagina Web",
+      "url": "http://www.nacionalseguros.com.bo/",
+      "label": "www.nacionalseguros.com.bo",
+      "color": "#ffffff"
+    },
+    {
+      "image": "/images/fb.png",
+      "color": "#ffffff",
+      "name": "Facebook",
+      "label": "/NacionalSeguros",
+      "url": "https://www.facebook.com/NacionalSegurosBolivia"
+    },
+    {
+      "image": "/images/ig.png",
+      "color": "#ffffff",
+      "name": "Instagram",
+      "label": "/nacionalsegurosbolivia",
+      "url": "https://www.instagram.com/nacionalsegurosbolivia"
+    },
+    {
+      "image": "/images/yt.png",
+      "color": "#ffffff",
+      "name": "Youtube",
+      "label": "Nacional Seguros",
+      "url": "https://www.youtube.com/channel/UCNpBdvVjWgcqaOI6_FgiSvg/videos"
+    },
+    {
+      "image": "/images/tt.png",
+      "color": "#ffffff",
+      "name": "Tiktok",
+      "url": "https://vm.tiktok.com/ZSs1QfUG/",
+      "label": "NacionalSeguros"
+    }
+  ]
+}

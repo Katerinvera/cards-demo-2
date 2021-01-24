@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /assets/
+Allow: /assets/images/
+
+User-agent: Googlebot
+Disallow: /assets/
+Allow: /assets/images/
+
+Sitemap: http://localhost/sitemap.xml

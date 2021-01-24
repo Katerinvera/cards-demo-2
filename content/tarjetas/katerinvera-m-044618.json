@@ -1,0 +1,73 @@
+{
+  "position": "Jefe Corporativo de Marketing",
+  "cellphone": {
+    "show": true,
+    "value": "+59169189716"
+  },
+  "background": {
+    "show": false,
+    "image": "/images/scz.png"
+  },
+  "ubication": "demo",
+  "whatsapp": {
+    "show": true,
+    "value": "+59169189716"
+  },
+  "photo": "/images/foto-kv.jpg",
+  "surname": "Vera M.",
+  "firstname": "Katerin",
+  "email": {
+    "show": true,
+    "value": "kvera@nacionalseguros.com.bo"
+  },
+  "actions": {
+    "whatsapp": {
+      "show": true,
+      "value": "+59169189716"
+    },
+    "cellphone": {
+      "show": true,
+      "value": "+59169189716"
+    },
+    "email": {
+      "show": true,
+      "value": "kvera@nacionalseguros.com.bo"
+    }
+  },
+  "linkedin": {
+    "value": "https://www.linkedin.com/in/katerin-mabel-vera-moreira-25798768/",
+    "show": true
+  },
+  "redes": [
+    {
+      "show": false,
+      "name": "Web",
+      "image": "/images/web.png",
+      "url": "http://www.nacionalseguros.com.bo/"
+    },
+    {
+      "image": "/images/fb.png",
+      "url": "https://www.facebook.com/NacionalSegurosBolivia/?fref=ts",
+      "name": "Facebook",
+      "show": true
+    },
+    {
+      "show": true,
+      "image": "/images/ig.png",
+      "url": "https://instagram.com/nacionalsegurosbolivia?igshid=pkzg8ahcr119",
+      "name": "Instagram"
+    },
+    {
+      "show": true,
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCNpBdvVjWgcqaOI6_FgiSvg/videos",
+      "image": "/images/yt.png"
+    },
+    {
+      "show": true,
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@nacionalsegurosbolivia?_d=secCgsIARCbDRgBIAMoARI%2BCjzTF1htCwFn7hYpsZBLsyDhYOOPiHx85Lnqnz3xMYBt%2BehXrym4Ot5ETlzqNSq7CHT2IcLGLUfyIqOtyNsaAA%3D%3D&language=es&sec_uid=MS4wLjABAAAAdRlabWzdxYYWXogwERU9KpMLB1LrOUAUEpZA7KXIumL6zfUSzwm-L8plpueChAiB&sec_user_id=MS4wLjABAAAAmQYQiccp4PDLZC1uSKnzWoE2RZvk7cF3IPj6MNB-h9RKVREcGlYyxzrxAvSqCtOh&share_app_name=musically&share_author_id=6865315168919192582&share_link_id=3703b983-d415-486c-9a57-178e533263ce&timestamp=1607548299&u_code=d8gi96238cmd43&user_id=6743797021507453957&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp&source=h5_m",
+      "image": "/images/tt.png"
+    }
+  ]
+}

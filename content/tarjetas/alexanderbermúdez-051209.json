@@ -1,0 +1,50 @@
+{
+  "position": "Inversionista WIN",
+  "background": {
+    "show": false
+  },
+  "ubication": "demo",
+  "photo": "/images/foto-alex.jpg",
+  "surname": "Bermúdez",
+  "firstname": "Alexander",
+  "actions": {
+    "whatsapp": {
+      "show": true,
+      "value": "+59178112144"
+    },
+    "cellphone": {
+      "show": true,
+      "value": "78112144"
+    },
+    "email": {
+      "show": true,
+      "value": "alexander161287@gmail.com"
+    },
+    "phone": {
+      "show": false
+    }
+  },
+  "linkedin": {
+    "show": false
+  },
+  "redes": [
+    {
+      "show": false,
+      "url": "http://www.winescompartir.com/?fbclid=IwAR141uuJMG9YNfZfsk92zpmxsbb-0rthiBQPA8-AsX8ibZhVpwEsZ8r3Oj0",
+      "name": "Web",
+      "image": "/images/web.png"
+    },
+    {
+      "show": true,
+      "name": "Facebook",
+      "url": "https://www.facebook.com/WinRideshareBOL/",
+      "image": "/images/fb.png"
+    },
+    {
+      "show": false,
+      "name": "Twitter",
+      "url": "@winbolivia1",
+      "image": "/images/tw.png"
+    }
+  ]
+}

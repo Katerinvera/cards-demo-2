@@ -1,0 +1,50 @@
+{
+  "position": "Puesto",
+  "cellphone": {
+    "show": true,
+    "value": "+59169189716"
+  },
+  "ubication": "demo",
+  "whatsapp": {
+    "show": true,
+    "value": "+59169189716"
+  },
+  "photo": "/images/young-attractive-african-girl-in-glasses-smiling-sitting-at-the-table-over-white-wall-future-fashion-icon-or-graphic-designer.jpg",
+  "surname": "Heredia",
+  "firstname": "Maria ",
+  "email": {
+    "show": true,
+    "value": "kvera@nacionalseguros.com.bo"
+  },
+  "actions": {
+    "whatsapp": {
+      "show": true,
+      "value": "+59169189716"
+    },
+    "cellphone": {
+      "show": true,
+      "value": "+59169189716"
+    },
+    "email": {
+      "show": true,
+      "value": "kvera@nacionalseguros.com.bo"
+    }
+  },
+  "linkedin": {
+    "value": "https://www.linkedin.com/in/katerin-mabel-vera-moreira-25798768/",
+    "show": true
+  },
+  "redes": [
+    {
+      "image": "/images/5279111-48.png",
+      "url": "/",
+      "name": "Facebook"
+    },
+    {
+      "show": true,
+      "image": "/images/7024783-128.png",
+      "url": "eee",
+      "name": "ee"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "show": false,
+  "videos": [
+    {
+      "link": "oIiQLg440QE",
+      "name": "APP - Nacional Seguros",
+      "description": "Tu seguro al alcance de tus manos"
+    },
+    {
+      "link": "R286HU2uOyE",
+      "name": "Nacional Seguros - Compañero de vida",
+      "description": "Estamos junto a ti en cada momento"
+    },
+    {
+      "name": "Covid Gold",
+      "link": "rPU4OqG6Qtw",
+      "description": "No bajes la guardia - Asegúrate en caso de Covid"
+    },
+    {
+      "link": "_9vzwkHzv_Q",
+      "name": "Salud Flexible"
+    },
+    {
+      "link": "SaLZoWufeM4",
+      "name": "Automotor Clásico"
+    },
+    {
+      "link": "HFPyLEDmjuM",
+      "name": "Vagoneta Segura",
+      "description": "Asegura tu vagoneta y llena de beneficios a tu familia"
+    },
+    {
+      "link": "xqLtUZvRUfw",
+      "name": "Vida Flexible"
+    }
+  ]
+}
