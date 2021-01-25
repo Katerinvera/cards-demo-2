@@ -1,53 +1,16 @@
 {
   "products": [
     {
-      "name": "Protección Covid",
-      "photo": "/images/protección-covid.jpg",
-      "price": "Desde 15Bs al mes",
-      "link": "https://formleads.bigbrige.app/ns/simple/OF8xOQ=="
+      "name": "Gana como pasajero",
+      "photo": "/images/producto.jpg",
+      "price": "Descarga la APP y empieza a ganar",
+      "link": "https://winrideshareapp.page.link/2MQUS8d8jBLywyGA7"
     },
     {
-      "name": "Oncoseguro",
-      "photo": "/images/oncoseguro.jpg",
-      "link": "https://formleads.bigbrige.app/ns/simple/OF84Mw==",
-      "price": "Desde 44Bs al mes"
-    },
-    {
-      "name": "Salud Flexible",
-      "photo": "/images/salud-flexible.jpg",
-      "link": "https://formleads.bigbrige.app/ns/simple/OF8yOA=="
-    },
-    {
-      "name": "Sonríe Seguro",
-      "photo": "/images/sonríe-seguro.jpg",
-      "price": "Desde 30Bs. al mes",
-      "link": "https://formleads.bigbrige.app/ns/simple/OF83NA=="
-    },
-    {
-      "name": "Vida Flexible",
-      "photo": "/images/vida-flexible.jpg",
-      "link": "https://formleads.bigbrige.app/ns/simple/OF8yNw==",
-      "price": "Desde 10Bs. diarios"
-    },
-    {
-      "name": "Automotor Clásico",
-      "photo": "/images/automotor-clasico-2.png",
-      "link": "https://formleads.bigbrige.app/ns/simple/OF8yOQ=="
-    },
-    {
-      "name": "Vagoneta Segura",
-      "photo": "/images/vagoneta-segura.jpg",
-      "link": "https://formleads.bigbrige.app/ns/simple/OF8xMA=="
-    },
-    {
-      "name": "Negocio Seguro",
-      "photo": "/images/negocio-seguro.jpg",
-      "link": "https://formleads.bigbrige.app/ns/simple/OF8zMA=="
-    },
-    {
-      "name": "Accidentes Personales",
-      "photo": "/images/accidentes-personales.jpg",
-      "link": "https://formleads.bigbrige.app/ns/simple/OF80NQ=="
+      "name": "Gana como conductor",
+      "photo": "/images/producto-2.jpg",
+      "link": "https://winrideshareapp.page.link/2MQUS8d8jBLywyGA7",
+      "price": "Descarga la APP y empieza a ganar"
     }
   ],
   "show": "No"
