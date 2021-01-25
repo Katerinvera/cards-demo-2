@@ -4,50 +4,36 @@
       "image": "/images/tlf.png",
       "color": "#ffffff",
       "name": "Telefono",
-      "label": "800 10 7000",
-      "url": "+591800107000"
+      "label": "+59178112144",
+      "url": "78112144"
     },
     {
       "image": "/images/mail.png",
       "color": "#ffffff",
       "name": "Email",
-      "label": "nacionalseguros@nacionalseguros.com.bo",
-      "url": "nacionalseguros@nacionalseguros.com.bo"
+      "label": "alexander161287@gmail.com",
+      "url": "alexander161287@gmail.com"
     },
     {
       "image": "/images/web.png",
       "name": "Pagina Web",
-      "url": "http://www.nacionalseguros.com.bo/",
-      "label": "www.nacionalseguros.com.bo",
+      "url": "https://winescompartir.com/",
+      "label": "winescompartir.com",
       "color": "#ffffff"
     },
     {
       "image": "/images/fb.png",
       "color": "#ffffff",
       "name": "Facebook",
-      "label": "/NacionalSeguros",
-      "url": "https://www.facebook.com/NacionalSegurosBolivia"
+      "label": "/WinRideshareBOL",
+      "url": "https://www.facebook.com/WinRideshareBOL"
     },
     {
       "image": "/images/ig.png",
       "color": "#ffffff",
       "name": "Instagram",
-      "label": "/nacionalsegurosbolivia",
-      "url": "https://www.instagram.com/nacionalsegurosbolivia"
-    },
-    {
-      "image": "/images/yt.png",
-      "color": "#ffffff",
-      "name": "Youtube",
-      "label": "Nacional Seguros",
-      "url": "https://www.youtube.com/channel/UCNpBdvVjWgcqaOI6_FgiSvg/videos"
-    },
-    {
-      "image": "/images/tt.png",
-      "color": "#ffffff",
-      "name": "Tiktok",
-      "url": "https://vm.tiktok.com/ZSs1QfUG/",
-      "label": "NacionalSeguros"
+      "label": "/win_rideshare_bolivia",
+      "url": "https://www.instagram.com/win_rideshare_bolivia/"
     }
   ]
 }
